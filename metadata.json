@@ -1,0 +1,5 @@
+{
+  "name": "Virtual Room Computer",
+  "description": "A virtual room with a computer that can generate images and search the web using Gemini.",
+  "requestFramePermissions": []
+}
